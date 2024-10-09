@@ -20,6 +20,33 @@ The state-space has 37 dimensions and contains the agent's velocity, along with 
 Solving the environment
 To solve the environment, the Agent must obtain an average score of +13 over 100 consecutive episodes.
 
+Getting the code
+You have two options to get the code contained in this repository:
+
+Option 1. Download it as a zip file
+Click here to download all the content of this repository as a zip file
+Uncompress the downloaded file into a folder of your choice
+Option 2. Clone this repository using Git version control system
+If you are not sure about having Git installed in your system, run the following command to verify that:
+
+$ git --version
+If you need to install it, follow this link to do so.
+
+Having Git installed in your system, you can clone this repository by running the following command:
+
+$ git clone https://github.com/silviomori/udacity-deep-reinforcement-learning-p1-navigation.git
+
+
+# Running the code
+
+To successfully run the code, you need to ensure that the following files are in place:
+
+1. **Navigation.ipynb** - This is the primary notebook where the final implementation is done. Start running the code here.
+2. **AgentDQ.py** - This file contains all the necessary methods required for the code to function properly. Ensure it is imported into the notebook.
+
+
+run the cod
+
 Here is the result.
 
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/9449920a-7f29-4af8-8c23-6e9baba30934">
