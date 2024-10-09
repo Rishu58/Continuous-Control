@@ -44,10 +44,7 @@ To successfully run the code, you need to ensure that the following files are in
 1. **Navigation.ipynb** - This is the primary notebook where the final implementation is done. Start running the code here.
 2. **AgentDQ.py** - This file contains all the necessary methods required for the code to function properly. Ensure it is imported into the notebook.
 
-
-run the cod
-
-Here is the result.
+Here is the final result which you can expect result.
 
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/9449920a-7f29-4af8-8c23-6e9baba30934">
 
