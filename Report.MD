@@ -2,12 +2,20 @@ In this project, I have used the below artichture to solve the given Architecctu
 
 d explore whether the current architecture is capable of achieving even higher rewards in the same environment, pushing the agent to reach a more optimal solution.
 
-## Potential Improvements:
-Negative Rewards for Inefficient Actions: Introducing negative rewards for actions that move the agent away from its goal (i.e., chasing yellow bananas) could discourage random or exploratory moves that are not aligned with optimal behavior.
 
-Exploring Other Algorithms: There are several advanced algorithms that could potentially outperform the current Deep Q-Network (DQN) architecture. Implementing these methods and comparing their performance in the same environment would be an interesting area of exploration. Possible algorithms to investigate include:
+## Ideas for Future Work and Potential Improvements :
+Although significant effort has been spent on fine-tuning the hyperparameters, it is likely that other configurations exist that could help the agent solve the environment more efficiently. Future experiments could focus on testing additional sets of values to potentially enhance performance.
 
-A3C (Asynchronous Advantage Actor-Critic): A popular policy-based algorithm that uses multiple agents learning asynchronously, which can lead to faster and more stable learning.
-Noisy DQN: A variant of DQN that incorporates noise into the network, encouraging better exploration by introducing stochasticity into the action-selection process.
-Distributional DQN: An extension of DQN that models the distribution of returns rather than just the expected value, potentially leading to a richer understanding of the environment's reward structure.
-By implementing these algorithms, future work could assess whether they offer performance improvements or faster convergence compared to the current approach.
+The main objective of this project was to achieve an average reward of +13 over 100 episodes. Further testing could explore whether the same architecture is capable of reaching even higher scores, improving the agent's overall performance.
+
+Possible Enhancements:
+Penalizing Ineffective Actions: Introducing negative rewards for actions that lead the agent away from its goal (such as moving toward the yellow bananas) could help discourage random movements and encourage more goal-oriented behavior.
+
+Exploration of Alternative Algorithms: Several advanced reinforcement learning techniques could potentially outperform the current Deep Q-Network (DQN) structure. Implementing these alternatives and comparing their results in the same environment would be a valuable area for future work. Some of the algorithms worth investigating include:
+
+A3C (Asynchronous Advantage Actor-Critic): This method uses multiple agents learning in parallel, which may speed up learning and improve stability.
+Noisy DQN: This approach adds noise to the network, encouraging better exploration by injecting randomness into action selection.
+Distributional DQN: Rather than estimating just the expected reward, this algorithm predicts a distribution of possible returns, potentially leading to a more comprehensive understanding of rewards.
+By incorporating these techniques, future work could determine if they result in faster learning or improved agent performance compared to the current model.
+
+
