@@ -1,6 +1,10 @@
 In this project, I have used the below artichture to solve the given Architeccture.
 
 d explore whether the current architecture is capable of achieving even higher rewards in the same environment, pushing the agent to reach a more optimal solution.
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/13ad786a-bb84-4700-9884-c52af38ec324">
+
+
+
 
 
 ## Ideas for Future Work and Potential Improvements :
