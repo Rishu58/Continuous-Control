@@ -1,7 +1,10 @@
-In this project, I have used the below artichture to solve the given Architeccture.
+In this project, I have used the below artichture to solve using below Architecture.
 
-d explore whether the current architecture is capable of achieving even higher rewards in the same environment, pushing the agent to reach a more optimal solution.
-<img width="391" alt="image" src="https://github.com/user-attachments/assets/13ad786a-bb84-4700-9884-c52af38ec324">
+I had explored whether the current architecture is capable of achieving even higher rewards in the same environment, pushing the agent to reach a more optimal solution.
+
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/6ad1a5a8-086a-482c-bb14-1ce63f8cad90">
+
+
 
 
 
