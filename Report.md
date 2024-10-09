@@ -5,6 +5,9 @@ I had explored whether the current architecture is capable of achieving even hig
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/6ad1a5a8-086a-482c-bb14-1ce63f8cad90">
 
 
+## Reward Plot 
+
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/a00f8d09-7987-44fa-b72e-8a40a4638358">
 
 
 
