@@ -21,4 +21,6 @@ Solving the environment
 To solve the environment, the Agent must obtain an average score of +13 over 100 consecutive episodes.
 
 Here is the result.
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/9449920a-7f29-4af8-8c23-6e9baba30934">
+
 
