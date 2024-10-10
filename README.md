@@ -1,4 +1,4 @@
-# Continuous-Control
+# Navigation
 This project is part of the Deep Reinforcement Learning Nanodegree Program, by Udacity.
 The goal in this project is to create and train an agent to navigate and collect bananas in a large, square world.
 
