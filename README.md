@@ -41,6 +41,8 @@ $ git clone https://github.com/silviomori/udacity-deep-reinforcement-learning-p1
 
 To successfully run the code, you need to ensure that the following files are in place:
 
+Download the depandicies from requirement.txt file.
+
 1. **Navigation.ipynb** - This is the primary notebook where the final implementation is done. Start running the code here.
 2. **AgentDQ.py** - This file contains all the necessary methods required for the code to function properly. Ensure it is imported into the notebook.
 
